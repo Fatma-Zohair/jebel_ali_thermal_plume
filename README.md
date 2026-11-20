@@ -12,9 +12,9 @@ How do the spatial footprint and magnitude of the thermal anomaly change seasona
 Is the Sea Surface Temperature (SST) difference between the discharge zone and matched control zones statistically significant when adjusting for wind and tidal covariates?
 
 # Datasets
-                      Dataset | Description | Source |
-1. Landsat 8/9 thermal bands | Sea surface temperature (30 m), quality flags and dates, 2022–2025 | USGS |
-2.  Hourly wind observations | 	Wind direction, speed and gust from Al Maktoum International Airport (OMDW), the closest weather station to the complex (~20 km), 2022–2025, UTC | Iowa Environmental Mesonet – ASOS/METAR |
+                      Dataset | Description | Source 
+1. Landsat 8/9 thermal bands | Sea surface temperature (30 m), quality flags and dates, 2022–2025 | USGS 
+2.  Hourly wind observations | 	Wind direction, speed and gust from Al Maktoum International Airport (OMDW), the closest weather station to the complex (~20 km), 2022–2025, UTC | Iowa Environmental Mesonet – ASOS/METAR 
 
 # Tools
 R (readr, dplyr, tidyr), run in Google Colab
